@@ -14,8 +14,8 @@ O sistema escolhido é uma locadora de veículos, que ao longo das etapas recebe
 
 ## Estrutura do repositório
 
-1. [ProjetoLocadora-CodigoProcedural](./ProjetoLocadora-CodigoProcedural). Versão inicial em estilo procedural com uso de arrays paralelos, código desorganizado e difícil de manter
+1. [ProjetoLocadora-CodigoProcedural](./01-ProjetoLocadora-CodigoProcedural). Versão inicial em estilo procedural com uso de arrays paralelos, código desorganizado e difícil de manter
 
-2. [ProjetoLocadora-AplicandoPOO-PARTE1](./ProjetoLocadora-AplicandoPOO-PARTE1). Primeira refatoração para POO com separação inicial de responsabilidades e aplicação de encapsulamento.
+2. [ProjetoLocadora-AplicandoPOO-PARTE1](./02-ProjetoLocadora-AplicandoPOO-PARTE1). Primeira refatoração para POO com separação inicial de responsabilidades e aplicação de encapsulamento.
 
-3. [ProjetoLocadora-AplicandoPOO-PARTE2](./ProjetoLocadora-AplicandoPOO-PARTE2). Versão mais completa em POO com uso de polimorfismo, herança e interfaces.
+3. [ProjetoLocadora-AplicandoPOO-PARTE2](./03-ProjetoLocadora-AplicandoPOO-PARTE2). Versão mais completa em POO com uso de polimorfismo, herança e interfaces.
