@@ -1,0 +1,10 @@
+# Ignorar configurações do VS Code (pasta de workspace)
+.vscode/
+
+# Ignorar artefatos de compilação Java
+bin/
+*.class
+
+# Outros arquivos de sistema
+.DS_Store
+Thumbs.db
